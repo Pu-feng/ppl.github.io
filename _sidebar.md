@@ -8,6 +8,6 @@
     * [面试题](md/面试题.md)
     * [随便写写](md/随便写写吧.md)
 * 服务器相关
-    * [安装node和docsify](md/docsify-cli使用.md)
+    * [安装node和docsify](md/node和docsify的安装.md)
 * 大杂烩
 
