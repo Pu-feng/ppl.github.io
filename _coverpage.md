@@ -1,7 +1,5 @@
 <!-- _coverpage.md -->
 
-![uwp1741885](images/uwp1741885.jpeg)
-
 # 面试题
 
 > 一个神奇的牛逼网站
