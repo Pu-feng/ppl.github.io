@@ -4,6 +4,7 @@
 * Vue
     * [Vue脚手架笔记](md/Vue脚手架笔记.md)
     * [Vue3快速上手](md/vue3快速上手.md)
+    * [工具函数](md/工具函数.md)
 * 前端笔记
     * [Git](md/git.md)
     * [基础面试题](md/基础面试题.md)
